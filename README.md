@@ -1,6 +1,6 @@
-# Classification with Naive Bayes
+# Naive Bayes Network
 
-This Python code is developed for developed for number classification over MNIST data-set. The 20 Newsgroups data set is a collection of approximately 20,000 newsgroup documents, partitioned (nearly) evenly across 20 different newsgroups. It was originally collected by Ken Lang, probably for his Newsweeder: Learning to filter netnews paper:
+This classification code is implemented using Naive Bayes Classifier. The 20 Newsgroups data set is a collection of approximately 20,000 newsgroup documents, partitioned (nearly) evenly across 20 different newsgroups. It was originally collected by Ken Lang, probably for his Newsweeder: Learning to filter netnews paper:
 Ken Lang, Newsweeder: Learning to fillter netnews, Proceedings of the Twelfth International Conference on Machine Learning, 331-339 (1995).
 
 Though he did not explicitly mention this collection. The 20 newsgroups collection has become a popular data set for
